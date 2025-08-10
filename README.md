@@ -5,4 +5,4 @@
 <img width="1700" height="2200" alt="project_report pdf-3" src="https://github.com/user-attachments/assets/f718a411-30c4-4558-8ad1-7226cf8eec14" />
 <img width="1700" height="2200" alt="project_report pdf-4" src="https://github.com/user-attachments/assets/af9f1818-7afb-4bd6-93ab-610f951992ca" />
 <img width="1700" height="2200" alt="project_report pdf-5" src="https://github.com/user-attachments/assets/e5c50e05-e794-439c-a605-d6f35b8c92e9" />
-<img width="1700" height="2200" alt="project_report pdf-6" src="https://github.com/user-attachments/assets/1e86af7f-4709-4936-9533-541b74783753" />
+<img width="1700" height="2200" alt="project_report pdf-6" src="https://github.com/user-attachments/assets/0a522210-8c14-45b8-bc18-61f9b05dad6e" />
