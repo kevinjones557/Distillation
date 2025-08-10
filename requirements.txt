@@ -1,0 +1,9 @@
+transformers
+torch
+datasets
+evaluate
+matplotlib
+numpy
+tqdm
+accelerate
+bitsandbytes

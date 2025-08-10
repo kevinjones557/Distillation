@@ -1,0 +1,11 @@
+data/
+models/
+optimizers/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore files
+*.err
+*.out
+*.flag
